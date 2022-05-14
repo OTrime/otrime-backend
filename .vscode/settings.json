@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.server.extraEnv": {
+        "DATABASE_URL": "postgres://postgres:@localhost:5432/rhelpnet"
+    }
+}
